@@ -1,4 +1,4 @@
-# Date : 13-06-2018
+
 # Cube root
 """
 A cube root of a number x is a
