@@ -1,4 +1,3 @@
-
 # Cube root
 """
 A cube root of a number x is a
